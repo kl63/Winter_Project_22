@@ -55,6 +55,7 @@ footer{
     border-style: double;
     border-width: thick;
     border-color: red;
+    text-align: center;
 }
 .mask{
     height: 200px;
@@ -63,11 +64,12 @@ footer{
 }
 .card-img-top{
     position: center;
-    margin: 20px 20px 20px 20px;
     width: auto;
     border-radius: 25px;
-    padding: 20px;
-
+    padding: 20px 20px 0 20px;
+}
+.card-text{
+    color: #b02a37;
 }
 
 img{
@@ -120,13 +122,13 @@ img{
     text-align: center;
     color: #e3b419;
     font-family: 'Alfa Slab One';
-    margin-bottom: 10px;
+
 }
-.menu_subheadings{
+.menu_category{
     text-align: left;
     font-family: 'Alfa Slab One';
     background-color: #0dcaf0;
-}
+}   
 table{
     table-layout: auto;
     width: 100%;
