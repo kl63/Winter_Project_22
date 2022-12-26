@@ -120,6 +120,8 @@ img{
     font-size: medium;
 }
 
+
+
 /*----------------------------------------------Menus Page (Both)---------------------------------------------------*/
 .menu_header{
     background-color: #b02a37;
@@ -160,7 +162,9 @@ table{
     background-color: white;
     border-radius: 15px 50px;
     padding: 20px;
-
+}
+.about_back{
+    background-image: url(/images/wok.jpeg);
 }
 /*----------------------------------------------Table Formats---------------------------------------------------*/
 .item_bar{
