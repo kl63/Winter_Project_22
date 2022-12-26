@@ -115,6 +115,10 @@ img{
 .cont_back{
     background: blanchedalmond;
 }
+#cont_form_message{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
 
 /*----------------------------------------------Menus Page (Both)---------------------------------------------------*/
 .menu_header{
@@ -138,7 +142,7 @@ table{
     margin-bottom: 500px;
 }
 .menu_back{
-    background: salmon;
+    background: grey;
 }
 /*----------------------------------------------About Us Page---------------------------------------------------*/
 .about_us_pic{
@@ -185,4 +189,9 @@ p{
 .menu_locator{
     background-color: #b02a37;
     margin-top: -10px;
+}
+
+#last_table{
+    margin-bottom: 115px;
+
 }
